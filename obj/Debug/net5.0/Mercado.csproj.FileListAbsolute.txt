@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Iniciar\bin\Debug\net5.0\Mercado.exe
+C:\Users\Admin\source\repos\Iniciar\bin\Debug\net5.0\Mercado.dll
+C:\Users\Admin\source\repos\Iniciar\bin\Debug\net5.0\Mercado.deps.json
+C:\Users\Admin\source\repos\Iniciar\bin\Debug\net5.0\Mercado.runtimeconfig.json
+C:\Users\Admin\source\repos\Iniciar\bin\Debug\net5.0\Mercado.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Iniciar\bin\Debug\net5.0\ref\Mercado.dll
+C:\Users\Admin\source\repos\Iniciar\bin\Debug\net5.0\Mercado.pdb
+C:\Users\Admin\source\repos\Iniciar\obj\Debug\net5.0\Mercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Iniciar\obj\Debug\net5.0\Mercado.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Iniciar\obj\Debug\net5.0\Mercado.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Iniciar\obj\Debug\net5.0\Mercado.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Iniciar\obj\Debug\net5.0\Mercado.dll
+C:\Users\Admin\source\repos\Iniciar\obj\Debug\net5.0\ref\Mercado.dll
+C:\Users\Admin\source\repos\Iniciar\obj\Debug\net5.0\Mercado.pdb
+C:\Users\Admin\source\repos\Iniciar\obj\Debug\net5.0\Mercado.genruntimeconfig.cache

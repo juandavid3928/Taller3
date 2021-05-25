@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Admin\.Rider2018.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Admin\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Admin\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Iniciar.2095777842.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Admin\source\repos\Iniciar" t="IncludeRecursive">
+      <e p="01_Modulo_Clientes" t="Include">
+        <e p="Clientes.cs" t="Include" />
+        <e p="Datos.cs" t="Include" />
+      </e>
+      <e p="02_Modulo_Productos" t="Include">
+        <e p="Funciones.cs" t="Include" />
+        <e p="Productos.cs" t="Include" />
+      </e>
+      <e p="03_Modulo_Ventas" t="Include">
+        <e p="Ventas.cs" t="Include" />
+      </e>
+      <e p="04_Modulo_Configuracion" t="Include">
+        <e p="Clientes_Y_Productos.cs" t="Include" />
+      </e>
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Inicio.cs" t="Include" />
+      <e p="Mercado.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="net5.0" t="Include">
+            <e p="Mercado.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
